@@ -1,0 +1,705 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Attention Is All You Need, NeurIPS 2017",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code] [pytorch implementation]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2023-06-02T18:55:09Z",
+                "owner": "tensorflow",
+                "repo": "tensor2tensor",
+                "stars": 17460
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[offficial code] [huggingface/transformers]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2024-07-23T23:39:41Z",
+                "owner": "google-research",
+                "repo": "bert",
+                "stars": 40057
+              }
+            }
+          ]
+        }
+      ],
+      "title": "About transformers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Attention augmented convolutional networks, ICCV 2019, image classification",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[pytorch implementation]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-01-26T13:02:28Z",
+                "owner": "leaderj1001",
+                "repo": "Attention-Augmented-Conv2d",
+                "stars": 653
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Self-Attention Generative Adversarial Networks, ICML 2019, generative model(GANs)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Feature Pyramid Transformer, ECCV 2020, detection and segmentation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers, arXiv 2020, depth estimation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-08-17T20:00:09Z",
+                "owner": "mli0603",
+                "repo": "stereo-transformer",
+                "stars": 706
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "End-to-end Lane Shape Prediction with Transformers, arXiv 2020, lane detection",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-12-27T07:23:53Z",
+                "owner": "liuruijin17",
+                "repo": "LSTR",
+                "stars": 662
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Taming Transformers for High-Resolution Image Synthesis, arXiv 2020, image synthesis",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-30T18:27:31Z",
+                "owner": "CompVis",
+                "repo": "taming-transformers",
+                "stars": 6518
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TransTrack: Multiple-Object Tracking with Transformer, arXiv 2020, MOT",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-04-30T19:30:48Z",
+                "owner": "PeizeSun",
+                "repo": "TransTrack",
+                "stars": 671
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Segmenting Transparent Object in the Wild with Transformer, arXiv 2021, transparent object segmentation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-10-15T20:01:31Z",
+                "owner": "xieenze",
+                "repo": "Trans2Seg",
+                "stars": 157
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Combining CNN with self-attention"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "End-to-end object detection with transformers, ECCV 2020, object detection",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code] [detectron2 implementation]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2024-03-12T15:58:25Z",
+                "owner": "facebookresearch",
+                "repo": "detr",
+                "stars": 15358
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Deformable DETR: Deformable Transformers for End-to-End Object Detection, ICLR 2021, object detection",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-16T03:54:39Z",
+                "owner": "fundamentalvision",
+                "repo": "Deformable-DETR",
+                "stars": 4013
+              }
+            }
+          ]
+        }
+      ],
+      "title": "DETR Family"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Stand-alone transformers for Computer Vision"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Image Transformer, ICML 2018",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2023-06-02T18:55:09Z",
+                "owner": "tensorflow",
+                "repo": "tensor2tensor",
+                "stars": 17460
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Stand-alone self-attention in vision models, NeurIPS 2019",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code(underconstruction)]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-12T12:20:59Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38526
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "On the relationship between self-attention and convolutional layers, ICLR 2020",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-01-10T10:00:25Z",
+                "owner": "epfml",
+                "repo": "attention-cnn",
+                "stars": 1121
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Exploring self-attention for image recognition, CVPR 2020",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-06-15T16:01:41Z",
+                "owner": "hszhao",
+                "repo": "SAN",
+                "stars": 751
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Self-attention only in local neighborhood"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Generating long sequences with sparse transformers, arXiv 2019",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2020-08-12T16:54:02Z",
+                "owner": "openai",
+                "repo": "sparse_attention",
+                "stars": 1614
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Axial attention in multidimensional transformers, arXiv 2019",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[pytorch implementation]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-08-26T01:14:39Z",
+                "owner": "lucidrains",
+                "repo": "axial-attention",
+                "stars": 396
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Axial-deeplab: Stand-alone axial-attention for panoptic segmentation, ECCV 2020",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[pytorch implementation]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-06-22T04:17:09Z",
+                "owner": "csrhddlam",
+                "repo": "axial-deeplab",
+                "stars": 459
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Scalable approximations to global self-attention"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Generative pretraining from pixels, ICML 2020, iGPT",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2022-04-29T00:03:56Z",
+                "owner": "openai",
+                "repo": "image-gpt",
+                "stars": 2097
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, ICLR 2021, ViT",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[pytorch implementation]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-02T15:23:44Z",
+                "owner": "lucidrains",
+                "repo": "vit-pytorch",
+                "stars": 25480
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Training data-efficient image transformers & distillation through attention, arXiv 2020, DeiT",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2024-03-15T13:20:37Z",
+                "owner": "facebookresearch",
+                "repo": "deit",
+                "stars": 4356
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet, arXiv 2021, T2T-ViT",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-10-27T19:00:24Z",
+                "owner": "yitu-opensource",
+                "repo": "T2T-ViT",
+                "stars": 1192
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-10-27T08:47:14Z",
+                "owner": "whai362",
+                "repo": "PVT",
+                "stars": 1899
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Global self-attention with image preprocessing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Unified text-vision tasks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks, NeurIPS 2019",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-02-16T04:47:38Z",
+                "owner": "facebookresearch",
+                "repo": "vilbert-multi-task",
+                "stars": 823
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LXMERT: Learning Cross-Modality Encoder Representations from Transformers, EMNLP 2019",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-10-22T00:05:56Z",
+                "owner": "airsplay",
+                "repo": "lxmert",
+                "stars": 966
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VisualBERT: A Simple and Performant Baseline for Vision and Language, arXiv 2019",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-05-01T20:51:04Z",
+                "owner": "uclanlp",
+                "repo": "visualbert",
+                "stars": 542
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VL-BERT: Pre-training of Generic Visual-Linguistic Representations, ICLR 2020",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-05-22T22:33:35Z",
+                "owner": "jackroos",
+                "repo": "VL-BERT",
+                "stars": 740
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "UNITER: UNiversal Image-TExt Representation Learning, ECCV 2020",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-06-30T21:46:55Z",
+                "owner": "ChenRocks",
+                "repo": "UNITER",
+                "stars": 799
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Focused on VQA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training, AAAI 2020",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-12-12T11:42:55Z",
+                "owner": "microsoft",
+                "repo": "Unicoder",
+                "stars": 91
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks, ECCV 2020",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[official code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2023-08-28T01:34:59Z",
+                "owner": "microsoft",
+                "repo": "Oscar",
+                "stars": 1053
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Focused on Image Retrieval"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:19:02.898Z",
+    "original_repository": "alohays/awesome-visual-representation-learning-with-transformers",
+    "original_repository_sha": "86b0bf622be7c14e484e7233ad308101eb9a2ccc",
+    "enhanced_repository": "enhansome/enhansome-visual-representation-learning-with-transformers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Visual Representation Learning with Transformers with stars"
+  }
+}
