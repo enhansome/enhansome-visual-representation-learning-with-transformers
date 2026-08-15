@@ -19,7 +19,7 @@
                 "last_commit": "2023-06-02T18:55:09Z",
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17459
+                "stars": 17461
               }
             }
           ]
@@ -40,7 +40,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40052
+                "stars": 40050
               }
             }
           ]
@@ -278,7 +278,7 @@
                 "last_commit": "2023-06-02T18:55:09Z",
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17459
+                "stars": 17461
               }
             }
           ]
@@ -296,10 +296,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-13T19:06:46Z",
+                "last_commit": "2026-08-14T22:49:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38531
+                "stars": 38540
               }
             }
           ]
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:06:43.772Z",
+    "last_updated": "2026-08-15T18:41:40.118Z",
     "original_repository": "alohays/awesome-visual-representation-learning-with-transformers",
     "original_repository_sha": "86b0bf622be7c14e484e7233ad308101eb9a2ccc",
     "enhanced_repository": "enhansome/enhansome-visual-representation-learning-with-transformers",
