@@ -204,7 +204,7 @@
                     "last_commit": "2024-03-12T15:58:25Z",
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15355
+                    "stars": 15354
                   }
                 }
               ]
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:59:01.170Z",
+    "last_updated": "2026-08-19T18:53:16.192Z",
     "original_repository": "alohays/awesome-visual-representation-learning-with-transformers",
     "original_repository_id": 305061496,
     "original_repository_sha": "86b0bf622be7c14e484e7233ad308101eb9a2ccc",

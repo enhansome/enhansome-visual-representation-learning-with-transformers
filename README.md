@@ -8,7 +8,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://arxiv.org/abs/1706.03762) [\[official code\]](https://github.com/tensorflow/tensor2tensor) ⚠️ Archived [\[pytorch implementation\]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) ⭐ 9,783 | 🐛 83 | 🌐 Python | 📅 2024-04-16
   * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019
-  * [\[paper\]](https://arxiv.org/abs/1810.04805) [\[offficial code\]](https://github.com/google-research/bert) ⚠️ Archived [\[huggingface/transformers\]](https://github.com/huggingface/transformers) ⭐ 164,253 | 🐛 2,380 | 🌐 Python | 📅 2026-08-19
+  * [\[paper\]](https://arxiv.org/abs/1810.04805) [\[offficial code\]](https://github.com/google-research/bert) ⚠️ Archived [\[huggingface/transformers\]](https://github.com/huggingface/transformers) ⭐ 164,265 | 🐛 2,385 | 🌐 Python | 📅 2026-08-19
   * Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 * Efficient Transformers: A Survey, arXiv 2020
   * Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler
