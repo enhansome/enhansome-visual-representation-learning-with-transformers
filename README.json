@@ -42,7 +42,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40047
+                "stars": 40048
               }
             }
           ]
@@ -280,10 +280,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-16T18:45:46Z",
+                    "last_commit": "2026-08-19T20:48:11Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38579
+                    "stars": 38589
                   }
                 }
               ]
@@ -356,7 +356,7 @@
                     "last_commit": "2020-08-12T16:54:02Z",
                     "owner": "openai",
                     "repo": "sparse_attention",
-                    "stars": 1614
+                    "stars": 1613
                   }
                 }
               ]
@@ -451,7 +451,7 @@
                     "last_commit": "2026-08-02T15:23:44Z",
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25487
+                    "stars": 25488
                   }
                 }
               ]
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:53:16.192Z",
+    "last_updated": "2026-08-20T18:53:33.418Z",
     "original_repository": "alohays/awesome-visual-representation-learning-with-transformers",
     "original_repository_id": 305061496,
     "original_repository_sha": "86b0bf622be7c14e484e7233ad308101eb9a2ccc",
