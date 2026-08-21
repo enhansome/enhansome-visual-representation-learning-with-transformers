@@ -20,7 +20,7 @@
                 "last_commit": "2023-06-02T18:55:09Z",
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17462
+                "stars": 17464
               }
             }
           ]
@@ -42,7 +42,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40048
+                "stars": 40047
               }
             }
           ]
@@ -136,7 +136,7 @@
                 "last_commit": "2024-07-30T18:27:31Z",
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6519
+                "stars": 6520
               }
             }
           ]
@@ -261,7 +261,7 @@
                     "last_commit": "2023-06-02T18:55:09Z",
                     "owner": "tensorflow",
                     "repo": "tensor2tensor",
-                    "stars": 17462
+                    "stars": 17464
                   }
                 }
               ]
@@ -283,7 +283,7 @@
                     "last_commit": "2026-08-19T20:48:11Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38589
+                    "stars": 38593
                   }
                 }
               ]
@@ -429,7 +429,7 @@
                     "last_commit": "2022-04-29T00:03:56Z",
                     "owner": "openai",
                     "repo": "image-gpt",
-                    "stars": 2096
+                    "stars": 2095
                   }
                 }
               ]
@@ -517,7 +517,7 @@
                     "last_commit": "2022-10-27T08:47:14Z",
                     "owner": "whai362",
                     "repo": "PVT",
-                    "stars": 1899
+                    "stars": 1900
                   }
                 }
               ]
@@ -574,7 +574,7 @@
                     "last_commit": "2022-10-22T00:05:56Z",
                     "owner": "airsplay",
                     "repo": "lxmert",
-                    "stars": 966
+                    "stars": 965
                   }
                 }
               ]
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:53:33.418Z",
+    "last_updated": "2026-08-21T18:50:25.708Z",
     "original_repository": "alohays/awesome-visual-representation-learning-with-transformers",
     "original_repository_id": 305061496,
     "original_repository_sha": "86b0bf622be7c14e484e7233ad308101eb9a2ccc",
