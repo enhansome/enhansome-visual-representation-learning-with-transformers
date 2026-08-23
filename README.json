@@ -42,7 +42,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046
+                "stars": 40045
               }
             }
           ]
@@ -283,7 +283,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38597
+                    "stars": 38606
                   }
                 }
               ]
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:42:56.199Z",
+    "last_updated": "2026-08-23T18:41:58.692Z",
     "original_repository": "alohays/awesome-visual-representation-learning-with-transformers",
     "original_repository_id": 305061496,
     "original_repository_sha": "86b0bf622be7c14e484e7233ad308101eb9a2ccc",
