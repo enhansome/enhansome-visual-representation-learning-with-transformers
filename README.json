@@ -429,7 +429,7 @@
                     "last_commit": "2022-04-29T00:03:56Z",
                     "owner": "openai",
                     "repo": "image-gpt",
-                    "stars": 2095
+                    "stars": 2096
                   }
                 }
               ]
@@ -720,7 +720,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22195
+                    "stars": 22194
                   }
                 }
               ]
@@ -764,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:26.702Z",
+    "last_updated": "2026-08-24T18:53:15.584Z",
     "original_repository": "alohays/awesome-visual-representation-learning-with-transformers",
     "original_repository_id": 305061496,
     "original_repository_sha": "86b0bf622be7c14e484e7233ad308101eb9a2ccc",
