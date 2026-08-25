@@ -136,7 +136,7 @@
                 "last_commit": "2024-07-30T18:27:31Z",
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6520
+                "stars": 6521
               }
             }
           ]
@@ -204,7 +204,7 @@
                     "last_commit": "2024-03-12T15:58:25Z",
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15354
+                    "stars": 15355
                   }
                 }
               ]
@@ -226,7 +226,7 @@
                     "last_commit": "2024-05-16T03:54:39Z",
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4014
+                    "stars": 4015
                   }
                 }
               ]
@@ -280,10 +280,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-21T19:58:51Z",
+                    "last_commit": "2026-08-25T18:30:01Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38614
+                    "stars": 38618
                   }
                 }
               ]
@@ -451,7 +451,7 @@
                     "last_commit": "2026-08-02T15:23:44Z",
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25487
+                    "stars": 25488
                   }
                 }
               ]
@@ -764,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:57.185Z",
+    "last_updated": "2026-08-25T18:51:56.580Z",
     "original_repository": "alohays/awesome-visual-representation-learning-with-transformers",
     "original_repository_id": 305061496,
     "original_repository_sha": "86b0bf622be7c14e484e7233ad308101eb9a2ccc",
