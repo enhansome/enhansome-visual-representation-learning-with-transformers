@@ -10,7 +10,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[official code]",
               "description": "[official code] [pytorch implementation]",
               "children": [],
               "repo_info": {
@@ -32,7 +32,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[offficial code]",
               "description": "[offficial code] [huggingface/transformers]",
               "children": [],
               "repo_info": {
@@ -42,7 +42,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046
+                "stars": 40045
               }
             }
           ]
@@ -60,7 +60,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[pytorch implementation]",
               "description": "[pytorch implementation]",
               "children": [],
               "repo_info": {
@@ -82,7 +82,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[official code]",
               "description": "[official code]",
               "children": [],
               "repo_info": {
@@ -104,7 +104,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[official code]",
               "description": "[official code]",
               "children": [],
               "repo_info": {
@@ -126,7 +126,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[official code]",
               "description": "[official code]",
               "children": [],
               "repo_info": {
@@ -148,7 +148,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[official code]",
               "description": "[official code]",
               "children": [],
               "repo_info": {
@@ -170,7 +170,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[official code]",
               "description": "[official code]",
               "children": [],
               "repo_info": {
@@ -194,7 +194,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code] [detectron2 implementation]",
                   "children": [],
                   "repo_info": {
@@ -216,7 +216,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -251,7 +251,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -273,7 +273,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code(underconstruction)]",
                   "description": "[official code(underconstruction)]",
                   "children": [],
                   "repo_info": {
@@ -283,7 +283,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38614
                   }
                 }
               ]
@@ -295,7 +295,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -317,7 +317,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -346,7 +346,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -368,7 +368,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[pytorch implementation]",
                   "description": "[pytorch implementation]",
                   "children": [],
                   "repo_info": {
@@ -390,7 +390,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[pytorch implementation]",
                   "description": "[pytorch implementation]",
                   "children": [],
                   "repo_info": {
@@ -419,7 +419,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -441,7 +441,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[pytorch implementation]",
                   "description": "[pytorch implementation]",
                   "children": [],
                   "repo_info": {
@@ -451,7 +451,7 @@
                     "last_commit": "2026-08-02T15:23:44Z",
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25486
+                    "stars": 25487
                   }
                 }
               ]
@@ -463,7 +463,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -485,7 +485,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -507,7 +507,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -542,7 +542,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -564,7 +564,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -586,7 +586,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -608,7 +608,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -630,7 +630,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -659,7 +659,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -681,7 +681,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -710,7 +710,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -720,7 +720,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22193
                   }
                 }
               ]
@@ -739,7 +739,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[paper]",
+                  "title": "[official code]",
                   "description": "[official code]",
                   "children": [],
                   "repo_info": {
@@ -764,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:53:15.584Z",
+    "last_updated": "2026-08-25T06:22:57.185Z",
     "original_repository": "alohays/awesome-visual-representation-learning-with-transformers",
     "original_repository_id": 305061496,
     "original_repository_sha": "86b0bf622be7c14e484e7233ad308101eb9a2ccc",
