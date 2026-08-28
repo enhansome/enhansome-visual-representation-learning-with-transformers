@@ -42,7 +42,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046
+                "stars": 40045
               }
             }
           ]
@@ -283,7 +283,7 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38630
+                    "stars": 38633
                   }
                 }
               ]
@@ -448,10 +448,10 @@
                     "archived": false,
                     "id": 300996055,
                     "language": "Python",
-                    "last_commit": "2026-08-02T15:23:44Z",
+                    "last_commit": "2026-08-27T19:16:54Z",
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25487
+                    "stars": 25488
                   }
                 }
               ]
@@ -720,7 +720,7 @@
                     "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22195
+                    "stars": 22197
                   }
                 }
               ]
@@ -764,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:04.646Z",
+    "last_updated": "2026-08-28T02:08:17.614Z",
     "original_repository_info": {
       "archived": false,
       "id": 305061496,
