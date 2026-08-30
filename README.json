@@ -24,7 +24,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17464,
+                "stars": 17465,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -58,7 +58,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40047,
+                "stars": 40046,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -346,7 +346,7 @@
                     "open_issues": 589,
                     "owner": "tensorflow",
                     "repo": "tensor2tensor",
-                    "stars": 17464,
+                    "stars": 17465,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -380,7 +380,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38650,
+                    "stars": 38655,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -595,8 +595,8 @@
                     "id": 300996055,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-27T19:16:54Z",
-                    "open_issues": 142,
+                    "last_commit": "2026-08-30T18:41:30Z",
+                    "open_issues": 141,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
                     "stars": 25492,
@@ -973,7 +973,7 @@
                     "open_issues": 684,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22196,
+                    "stars": 22197,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:51:31.758Z",
+    "last_updated": "2026-08-30T20:57:54.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
