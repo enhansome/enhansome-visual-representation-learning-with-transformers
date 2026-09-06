@@ -58,7 +58,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40043,
+                "stars": 40044,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -305,7 +305,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4018,
+                    "stars": 4019,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -380,7 +380,7 @@
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38692,
+                    "stars": 38697,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -596,7 +596,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-05T13:59:01Z",
-                    "open_issues": 142,
+                    "open_issues": 143,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
                     "stars": 25499,
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:15:39.152Z",
+    "last_updated": "2026-09-06T20:20:05.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
