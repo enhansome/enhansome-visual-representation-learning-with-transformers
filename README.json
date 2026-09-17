@@ -58,7 +58,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40041,
+                "stars": 40043,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -191,7 +191,7 @@
                 "open_issues": 167,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6520,
+                "stars": 6521,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:12.368Z"
@@ -305,7 +305,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4023,
+                    "stars": 4024,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -380,7 +380,7 @@
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38776,
+                    "stars": 38784,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -596,10 +596,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-05T13:59:01Z",
-                    "open_issues": 141,
+                    "open_issues": 142,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25508,
+                    "stars": 25512,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -661,7 +661,7 @@
                     "open_issues": 24,
                     "owner": "yitu-opensource",
                     "repo": "T2T-ViT",
-                    "stars": 1192,
+                    "stars": 1193,
                     "topics": [
                       "t2t-transformer",
                       "vision-transformer",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T21:13:37.646Z",
+    "last_updated": "2026-09-17T21:16:31.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
