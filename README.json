@@ -24,7 +24,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17477,
+                "stars": 17476,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -58,7 +58,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40045,
+                "stars": 40046,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -277,7 +277,7 @@
                     "open_issues": 255,
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15350,
+                    "stars": 15351,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -305,7 +305,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4025,
+                    "stars": 4024,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -346,7 +346,7 @@
                     "open_issues": 589,
                     "owner": "tensorflow",
                     "repo": "tensor2tensor",
-                    "stars": 17477,
+                    "stars": 17476,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -380,7 +380,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38828,
+                    "stars": 38833,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -693,7 +693,7 @@
                     "open_issues": 42,
                     "owner": "whai362",
                     "repo": "PVT",
-                    "stars": 1904,
+                    "stars": 1905,
                     "topics": [
                       "backbone",
                       "detection",
@@ -973,7 +973,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22227,
+                    "stars": 22228,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:26:33.310Z",
+    "last_updated": "2026-09-25T21:28:05.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
