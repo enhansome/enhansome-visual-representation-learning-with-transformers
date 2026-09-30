@@ -24,7 +24,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17473,
+                "stars": 17472,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -58,7 +58,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046,
+                "stars": 40045,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -219,7 +219,7 @@
                 "open_issues": 23,
                 "owner": "PeizeSun",
                 "repo": "TransTrack",
-                "stars": 670,
+                "stars": 671,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:12.368Z"
@@ -277,7 +277,7 @@
                     "open_issues": 255,
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15350,
+                    "stars": 15351,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -305,7 +305,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4023,
+                    "stars": 4025,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -346,7 +346,7 @@
                     "open_issues": 589,
                     "owner": "tensorflow",
                     "repo": "tensor2tensor",
-                    "stars": 17473,
+                    "stars": 17472,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -376,11 +376,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-23T21:53:54Z",
+                    "last_commit": "2026-09-30T21:03:49Z",
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38851,
+                    "stars": 38856,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -599,7 +599,7 @@
                     "open_issues": 143,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25526,
+                    "stars": 25527,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -973,7 +973,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22226,
+                    "stars": 22227,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:10:08.136Z",
+    "last_updated": "2026-09-30T22:09:37.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
@@ -1058,7 +1058,7 @@
       "open_issues": 1,
       "owner": "alohays",
       "repo": "awesome-visual-representation-learning-with-transformers",
-      "stars": 271,
+      "stars": 272,
       "topics": [
         "awesome-list",
         "computer-vision",
