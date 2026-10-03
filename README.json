@@ -380,7 +380,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38862,
+                    "stars": 38863,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -599,7 +599,7 @@
                     "open_issues": 143,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25530,
+                    "stars": 25531,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:06:12.338Z",
+    "last_updated": "2026-10-03T05:15:42.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
