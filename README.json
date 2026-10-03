@@ -277,7 +277,7 @@
                     "open_issues": 255,
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15352,
+                    "stars": 15350,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -380,7 +380,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38863,
+                    "stars": 38868,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -599,7 +599,7 @@
                     "open_issues": 143,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25531,
+                    "stars": 25530,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -693,7 +693,7 @@
                     "open_issues": 42,
                     "owner": "whai362",
                     "repo": "PVT",
-                    "stars": 1905,
+                    "stars": 1906,
                     "topics": [
                       "backbone",
                       "detection",
@@ -973,7 +973,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22227,
+                    "stars": 22226,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:15:42.959Z",
+    "last_updated": "2026-10-03T21:07:23.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
