@@ -24,7 +24,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17473,
+                "stars": 17474,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -58,7 +58,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40047,
+                "stars": 40046,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -346,7 +346,7 @@
                     "open_issues": 589,
                     "owner": "tensorflow",
                     "repo": "tensor2tensor",
-                    "stars": 17473,
+                    "stars": 17474,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -377,10 +377,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T21:03:49Z",
-                    "open_issues": 1996,
+                    "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38868,
+                    "stars": 38871,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -599,7 +599,7 @@
                     "open_issues": 143,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25530,
+                    "stars": 25531,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -693,7 +693,7 @@
                     "open_issues": 42,
                     "owner": "whai362",
                     "repo": "PVT",
-                    "stars": 1906,
+                    "stars": 1907,
                     "topics": [
                       "backbone",
                       "detection",
@@ -902,7 +902,7 @@
                     "open_issues": 2,
                     "owner": "microsoft",
                     "repo": "Unicoder",
-                    "stars": 91,
+                    "stars": 92,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -930,7 +930,7 @@
                     "open_issues": 142,
                     "owner": "microsoft",
                     "repo": "Oscar",
-                    "stars": 1053,
+                    "stars": 1054,
                     "topics": [
                       "image-captioning",
                       "image-text-search",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T21:07:23.934Z",
+    "last_updated": "2026-10-04T21:15:35.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
