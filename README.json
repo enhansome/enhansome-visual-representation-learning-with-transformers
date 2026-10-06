@@ -24,7 +24,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17475,
+                "stars": 17476,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -346,7 +346,7 @@
                     "open_issues": 589,
                     "owner": "tensorflow",
                     "repo": "tensor2tensor",
-                    "stars": 17475,
+                    "stars": 17476,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -380,7 +380,7 @@
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38873,
+                    "stars": 38875,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -412,7 +412,7 @@
                     "open_issues": 6,
                     "owner": "epfml",
                     "repo": "attention-cnn",
-                    "stars": 1122,
+                    "stars": 1123,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -599,7 +599,7 @@
                     "open_issues": 143,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25534,
+                    "stars": 25537,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -825,7 +825,7 @@
                     "open_issues": 21,
                     "owner": "jackroos",
                     "repo": "VL-BERT",
-                    "stars": 741,
+                    "stars": 742,
                     "topics": [
                       "bert",
                       "iclr2020",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:59:24.600Z",
+    "last_updated": "2026-10-06T10:57:57.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
