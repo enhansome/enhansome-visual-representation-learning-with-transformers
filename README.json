@@ -376,11 +376,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-30T21:03:49Z",
+                    "last_commit": "2026-10-07T21:04:37Z",
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38878,
+                    "stars": 38880,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -599,7 +599,7 @@
                     "open_issues": 144,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25537,
+                    "stars": 25539,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -797,7 +797,7 @@
                     "open_issues": 14,
                     "owner": "uclanlp",
                     "repo": "visualbert",
-                    "stars": 542,
+                    "stars": 543,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:36:08.048Z",
+    "last_updated": "2026-10-07T23:00:48.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
