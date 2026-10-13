@@ -8,7 +8,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://arxiv.org/abs/1706.03762) [\[official code\]](https://github.com/tensorflow/tensor2tensor) ⚠️ Archived [\[pytorch implementation\]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) ⭐ 9,815 | 🐛 83 | 🌐 Python | 📅 2024-04-16
   * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019
-  * [\[paper\]](https://arxiv.org/abs/1810.04805) [\[offficial code\]](https://github.com/google-research/bert) ⚠️ Archived [\[huggingface/transformers\]](https://github.com/huggingface/transformers) ⭐ 167,520 | 🐛 2,336 | 🌐 Python | 📅 2026-10-11
+  * [\[paper\]](https://arxiv.org/abs/1810.04805) [\[offficial code\]](https://github.com/google-research/bert) ⚠️ Archived [\[huggingface/transformers\]](https://github.com/huggingface/transformers) ⭐ 167,603 | 🐛 2,338 | 🌐 Python | 📅 2026-10-13
   * Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 * Efficient Transformers: A Survey, arXiv 2020
   * Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler
@@ -44,7 +44,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](http://arxiv.org/abs/2011.04233) [\[official code\]](https://github.com/liuruijin17/LSTR) ⭐ 662 | 🐛 34 | 🌐 Python | 📅 2021-12-27
   * Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong
 * Taming Transformers for High-Resolution Image Synthesis, arXiv 2020, image synthesis
-  * [\[paper\]](http://arxiv.org/abs/2012.09841)[\[official code\]](https://github.com/CompVis/taming-transformers) ⭐ 6,530 | 🐛 167 | 🌐 Jupyter Notebook | 📅 2024-07-30
+  * [\[paper\]](http://arxiv.org/abs/2012.09841)[\[official code\]](https://github.com/CompVis/taming-transformers) ⭐ 6,529 | 🐛 167 | 🌐 Jupyter Notebook | 📅 2024-07-30
   * Patrick Esser, Robin Rombach, Bjorn Ommer
 * TransPose: Towards Explainable Human Pose Estimation by Transformer, arXiv 2020, pose estimation
   * Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang
@@ -62,7 +62,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * Yifan Xu, Weijian Xu, David Cheung, Zhuowen Tu
   * [\[paper\]](https://arxiv.org/abs/2101.01909)
 * Segmenting Transparent Object in the Wild with Transformer, arXiv 2021, transparent object segmentation
-  * [\[paper\]](https://arxiv.org/abs/2101.08461)[\[official code\]](https://github.com/xieenze/Trans2Seg) ⭐ 156 | 🐛 17 | 🌐 Python | 📅 2022-10-15
+  * [\[paper\]](https://arxiv.org/abs/2101.08461)[\[official code\]](https://github.com/xieenze/Trans2Seg) ⭐ 155 | 🐛 17 | 🌐 Python | 📅 2022-10-15
   * Enze Xie, Wenjia Wang, Wenhai Wang, Peize Sun, Hang Xu, Ding Liang, Ping Luo
 * Bottleneck Transformers for Visual Recognition, arXiv 2021, backbone design
   * Aravind Srinivas, Tsung-Yi Lin, Niki Parmar, Jonathon Shlens, Pieter Abbeel, Ashish Vaswani
@@ -94,7 +94,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://arxiv.org/abs/1802.05751) [\[official code\]](https://github.com/tensorflow/tensor2tensor) ⚠️ Archived
   * Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Łukasz Kaiser, Noam Shazeer, Alexander Ku, Dustin Tran
 * Stand-alone self-attention in vision models, NeurIPS 2019
-  * [\[paper\]](https://arxiv.org/abs/1906.05909) [\[official code(underconstruction)\]](https://github.com/google-research/google-research/tree/master/standalone_self_attention_in_vision_models) ⭐ 38,897 | 🐛 2,005 | 🌐 Jupyter Notebook | 📅 2026-10-10
+  * [\[paper\]](https://arxiv.org/abs/1906.05909) [\[official code(underconstruction)\]](https://github.com/google-research/google-research/tree/master/standalone_self_attention_in_vision_models) ⭐ 38,902 | 🐛 2,005 | 🌐 Jupyter Notebook | 📅 2026-10-12
   * Prajit Ramachandran, Niki Parmar, Ashish Vaswani, Irwan Bello, Anselm Levskaya, Jonathon Shlens
 * On the relationship between self-attention and convolutional layers, ICLR 2020
   * [\[paper\]](https://arxiv.org/abs/1911.03584) [\[official code\]](https://github.com/epfml/attention-cnn) ⭐ 1,123 | 🐛 6 | 🌐 Python | 📅 2023-01-10
@@ -127,7 +127,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [\[official code\]](https://github.com/openai/image-gpt) ⚠️ Archived
   * Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever
 * **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, ICLR 2021, ViT**
-  * [\[paper\]](https://arxiv.org/abs/2010.11929) [\[pytorch implementation\]](https://github.com/lucidrains/vit-pytorch) ⭐ 25,543 | 🐛 144 | 🌐 Python | 📅 2026-09-20
+  * [\[paper\]](https://arxiv.org/abs/2010.11929) [\[pytorch implementation\]](https://github.com/lucidrains/vit-pytorch) ⭐ 25,542 | 🐛 144 | 🌐 Python | 📅 2026-09-20
   * Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
 * Pre-Trained Image Processing Transformer, arXiv, IPT
   * Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao
@@ -171,7 +171,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://arxiv.org/abs/1908.08530) [\[official code\]](https://github.com/jackroos/VL-BERT) ⭐ 742 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2023-05-22
   * Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai
 * UNITER: UNiversal Image-TExt Representation Learning, ECCV 2020
-  * [\[paper\]](https://arxiv.org/abs/1909.11740) [\[official code\]](https://github.com/ChenRocks/UNITER) ⭐ 800 | 🐛 46 | 🌐 Python | 📅 2021-06-30
+  * [\[paper\]](https://arxiv.org/abs/1909.11740) [\[official code\]](https://github.com/ChenRocks/UNITER) ⭐ 801 | 🐛 46 | 🌐 Python | 📅 2021-06-30
   * Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, Jingjing Liu
 * Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers, arXiv 2020
   * Zhicheng Huang, Zhaoyang Zeng, Bei Liu, Dongmei Fu, Jianlong Fu
@@ -215,4 +215,4 @@ Awesome Transformers (self-attention) in Computer Vision
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

@@ -58,7 +58,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40037,
+                "stars": 40036,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -191,7 +191,7 @@
                 "open_issues": 167,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6530,
+                "stars": 6529,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:12.368Z"
@@ -247,7 +247,7 @@
                 "open_issues": 17,
                 "owner": "xieenze",
                 "repo": "Trans2Seg",
-                "stars": 156,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:12.368Z"
@@ -277,7 +277,7 @@
                     "open_issues": 255,
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15350,
+                    "stars": 15351,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -376,11 +376,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T14:34:09Z",
+                    "last_commit": "2026-10-12T13:39:16Z",
                     "open_issues": 2005,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38897,
+                    "stars": 38902,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -599,7 +599,7 @@
                     "open_issues": 144,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25543,
+                    "stars": 25542,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -862,7 +862,7 @@
                     "open_issues": 46,
                     "owner": "ChenRocks",
                     "repo": "UNITER",
-                    "stars": 800,
+                    "stars": 801,
                     "topics": [
                       "pre-training",
                       "pytorch",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T21:48:32.925Z",
+    "last_updated": "2026-10-13T00:32:25.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
