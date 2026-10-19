@@ -24,7 +24,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17475,
+                "stars": 17476,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -277,7 +277,7 @@
                     "open_issues": 255,
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15348,
+                    "stars": 15349,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -346,7 +346,7 @@
                     "open_issues": 589,
                     "owner": "tensorflow",
                     "repo": "tensor2tensor",
-                    "stars": 17475,
+                    "stars": 17476,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -380,7 +380,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38945,
+                    "stars": 38960,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -596,10 +596,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-13T13:38:41Z",
-                    "open_issues": 144,
+                    "open_issues": 150,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25552,
+                    "stars": 25551,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -693,7 +693,7 @@
                     "open_issues": 42,
                     "owner": "whai362",
                     "repo": "PVT",
-                    "stars": 1908,
+                    "stars": 1907,
                     "topics": [
                       "backbone",
                       "detection",
@@ -973,7 +973,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22239,
+                    "stars": 22237,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:31:53.284Z",
+    "last_updated": "2026-10-19T22:16:17.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
