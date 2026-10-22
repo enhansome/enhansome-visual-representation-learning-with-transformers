@@ -58,7 +58,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40040,
+                "stars": 40037,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -191,7 +191,7 @@
                 "open_issues": 168,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6534,
+                "stars": 6536,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:12.368Z"
@@ -376,11 +376,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T07:52:25Z",
+                    "last_commit": "2026-10-22T17:29:10Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38999,
+                    "stars": 39006,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -503,7 +503,7 @@
                     "open_issues": 5,
                     "owner": "lucidrains",
                     "repo": "axial-attention",
-                    "stars": 395,
+                    "stars": 396,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -571,7 +571,7 @@
                     "open_issues": 12,
                     "owner": "openai",
                     "repo": "image-gpt",
-                    "stars": 2093,
+                    "stars": 2094,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -973,7 +973,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22238,
+                    "stars": 22236,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T21:33:42.615Z",
+    "last_updated": "2026-10-22T21:27:43.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
