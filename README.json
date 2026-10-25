@@ -24,7 +24,7 @@
                 "open_issues": 589,
                 "owner": "tensorflow",
                 "repo": "tensor2tensor",
-                "stars": 17476,
+                "stars": 17479,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -58,7 +58,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40037,
+                "stars": 40040,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -191,7 +191,7 @@
                 "open_issues": 168,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6536,
+                "stars": 6537,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:12.368Z"
@@ -277,7 +277,7 @@
                     "open_issues": 255,
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15351,
+                    "stars": 15352,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -305,7 +305,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4028,
+                    "stars": 4029,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -346,7 +346,7 @@
                     "open_issues": 589,
                     "owner": "tensorflow",
                     "repo": "tensor2tensor",
-                    "stars": 17476,
+                    "stars": 17479,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -376,11 +376,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T21:57:07Z",
+                    "last_commit": "2026-10-25T00:00:25Z",
                     "open_issues": 2024,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39016,
+                    "stars": 39025,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -595,11 +595,11 @@
                     "id": 300996055,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-13T13:38:41Z",
+                    "last_commit": "2026-10-25T17:44:25Z",
                     "open_issues": 150,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25551,
+                    "stars": 25553,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -693,7 +693,7 @@
                     "open_issues": 42,
                     "owner": "whai362",
                     "repo": "PVT",
-                    "stars": 1907,
+                    "stars": 1906,
                     "topics": [
                       "backbone",
                       "detection",
@@ -970,10 +970,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 689,
+                    "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22234,
+                    "stars": 22235,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T20:39:16.323Z",
+    "last_updated": "2026-10-25T20:43:57.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
