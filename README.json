@@ -58,7 +58,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40036,
+                "stars": 40038,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -305,7 +305,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4030,
+                    "stars": 4029,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -376,11 +376,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T17:33:25Z",
+                    "last_commit": "2026-10-30T23:22:33Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39064,
+                    "stars": 39074,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -412,7 +412,7 @@
                     "open_issues": 6,
                     "owner": "epfml",
                     "repo": "attention-cnn",
-                    "stars": 1123,
+                    "stars": 1122,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -599,7 +599,7 @@
                     "open_issues": 151,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25553,
+                    "stars": 25554,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -633,7 +633,7 @@
                     "open_issues": 20,
                     "owner": "facebookresearch",
                     "repo": "deit",
-                    "stars": 4347,
+                    "stars": 4346,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -661,7 +661,7 @@
                     "open_issues": 24,
                     "owner": "yitu-opensource",
                     "repo": "T2T-ViT",
-                    "stars": 1194,
+                    "stars": 1195,
                     "topics": [
                       "t2t-transformer",
                       "vision-transformer",
@@ -973,7 +973,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22235,
+                    "stars": 22237,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:12:51.111Z",
+    "last_updated": "2026-10-31T21:24:46.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
