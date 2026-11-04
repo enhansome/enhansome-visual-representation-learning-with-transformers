@@ -277,7 +277,7 @@
                     "open_issues": 255,
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15349,
+                    "stars": 15345,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -305,7 +305,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4029,
+                    "stars": 4028,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -376,11 +376,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T23:22:33Z",
-                    "open_issues": 2009,
+                    "last_commit": "2026-11-04T16:49:43Z",
+                    "open_issues": 2010,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39101,
+                    "stars": 39112,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -599,7 +599,7 @@
                     "open_issues": 151,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25554,
+                    "stars": 25558,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -973,7 +973,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22239,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T23:13:34.831Z",
+    "last_updated": "2026-11-04T23:33:32.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
