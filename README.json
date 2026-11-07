@@ -191,7 +191,7 @@
                 "open_issues": 168,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6534,
+                "stars": 6535,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:12.368Z"
@@ -277,7 +277,7 @@
                     "open_issues": 255,
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15343,
+                    "stars": 15344,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -380,7 +380,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39122,
+                    "stars": 39127,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -595,7 +595,7 @@
                     "id": 300996055,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-01T03:52:46Z",
+                    "last_commit": "2026-11-07T14:30:20Z",
                     "open_issues": 153,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
@@ -970,7 +970,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 690,
+                    "open_issues": 691,
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22240,
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:59:38.207Z",
+    "last_updated": "2026-11-07T21:43:20.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
@@ -1055,7 +1055,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2021-07-31T08:04:36Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "alohays",
       "repo": "awesome-visual-representation-learning-with-transformers",
       "stars": 271,
