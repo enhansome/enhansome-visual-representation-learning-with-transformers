@@ -191,7 +191,7 @@
                 "open_issues": 168,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6535,
+                "stars": 6534,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:12.368Z"
@@ -380,7 +380,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39127,
+                    "stars": 39139,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -599,7 +599,7 @@
                     "open_issues": 153,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25560,
+                    "stars": 25561,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -633,7 +633,7 @@
                     "open_issues": 20,
                     "owner": "facebookresearch",
                     "repo": "deit",
-                    "stars": 4346,
+                    "stars": 4345,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -973,7 +973,7 @@
                     "open_issues": 691,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22240,
+                    "stars": 22242,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:43:20.315Z",
+    "last_updated": "2026-11-08T21:56:50.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
