@@ -58,7 +58,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40033,
+                "stars": 40029,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -305,7 +305,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4029,
+                    "stars": 4028,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -376,11 +376,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T18:41:04Z",
+                    "last_commit": "2026-11-09T18:10:16Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39139,
+                    "stars": 39147,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -571,7 +571,7 @@
                     "open_issues": 12,
                     "owner": "openai",
                     "repo": "image-gpt",
-                    "stars": 2095,
+                    "stars": 2094,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -596,10 +596,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-07T14:30:20Z",
-                    "open_issues": 153,
+                    "open_issues": 155,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25561,
+                    "stars": 25564,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -902,7 +902,7 @@
                     "open_issues": 2,
                     "owner": "microsoft",
                     "repo": "Unicoder",
-                    "stars": 92,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:56:50.647Z",
+    "last_updated": "2026-11-10T01:26:21.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
