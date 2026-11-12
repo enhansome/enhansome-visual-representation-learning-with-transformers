@@ -58,7 +58,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40029,
+                "stars": 40030,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -191,7 +191,7 @@
                 "open_issues": 168,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6534,
+                "stars": 6532,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:12.368Z"
@@ -277,7 +277,7 @@
                     "open_issues": 255,
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15345,
+                    "stars": 15344,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -377,10 +377,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-11T11:58:31Z",
-                    "open_issues": 2009,
+                    "open_issues": 2012,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39160,
+                    "stars": 39162,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -599,7 +599,7 @@
                     "open_issues": 155,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25568,
+                    "stars": 25569,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -741,7 +741,7 @@
                     "open_issues": 67,
                     "owner": "facebookresearch",
                     "repo": "vilbert-multi-task",
-                    "stars": 822,
+                    "stars": 821,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -1029,7 +1029,7 @@
                     "open_issues": 67,
                     "owner": "facebookresearch",
                     "repo": "vilbert-multi-task",
-                    "stars": 822,
+                    "stars": 821,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T00:30:52.330Z",
+    "last_updated": "2026-11-12T23:29:45.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
