@@ -58,7 +58,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40026,
+                "stars": 40025,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -191,7 +191,7 @@
                 "open_issues": 168,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6532,
+                "stars": 6533,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:12.368Z"
@@ -305,7 +305,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4029,
+                    "stars": 4031,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -376,11 +376,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T12:36:20Z",
+                    "last_commit": "2026-11-16T16:31:35Z",
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39182,
+                    "stars": 39198,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -412,7 +412,7 @@
                     "open_issues": 6,
                     "owner": "epfml",
                     "repo": "attention-cnn",
-                    "stars": 1122,
+                    "stars": 1123,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -571,7 +571,7 @@
                     "open_issues": 12,
                     "owner": "openai",
                     "repo": "image-gpt",
-                    "stars": 2093,
+                    "stars": 2094,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -599,7 +599,7 @@
                     "open_issues": 155,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25574,
+                    "stars": 25577,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -633,7 +633,7 @@
                     "open_issues": 20,
                     "owner": "facebookresearch",
                     "repo": "deit",
-                    "stars": 4345,
+                    "stars": 4346,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -769,7 +769,7 @@
                     "open_issues": 55,
                     "owner": "airsplay",
                     "repo": "lxmert",
-                    "stars": 970,
+                    "stars": 971,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -797,7 +797,7 @@
                     "open_issues": 14,
                     "owner": "uclanlp",
                     "repo": "visualbert",
-                    "stars": 542,
+                    "stars": 543,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -825,7 +825,7 @@
                     "open_issues": 21,
                     "owner": "jackroos",
                     "repo": "VL-BERT",
-                    "stars": 741,
+                    "stars": 742,
                     "topics": [
                       "bert",
                       "iclr2020",
@@ -862,7 +862,7 @@
                     "open_issues": 46,
                     "owner": "ChenRocks",
                     "repo": "UNITER",
-                    "stars": 801,
+                    "stars": 802,
                     "topics": [
                       "pre-training",
                       "pytorch",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T22:43:44.124Z",
+    "last_updated": "2026-11-17T01:49:44.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
