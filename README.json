@@ -58,7 +58,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40022,
+                "stars": 40020,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -277,7 +277,7 @@
                     "open_issues": 255,
                     "owner": "facebookresearch",
                     "repo": "detr",
-                    "stars": 15343,
+                    "stars": 15344,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -305,7 +305,7 @@
                     "open_issues": 177,
                     "owner": "fundamentalvision",
                     "repo": "Deformable-DETR",
-                    "stars": 4032,
+                    "stars": 4031,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -376,11 +376,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T22:14:55Z",
+                    "last_commit": "2026-11-19T15:52:19Z",
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39223,
+                    "stars": 39233,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -412,7 +412,7 @@
                     "open_issues": 6,
                     "owner": "epfml",
                     "repo": "attention-cnn",
-                    "stars": 1123,
+                    "stars": 1122,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -599,7 +599,7 @@
                     "open_issues": 155,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25581,
+                    "stars": 25583,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -661,7 +661,7 @@
                     "open_issues": 24,
                     "owner": "yitu-opensource",
                     "repo": "T2T-ViT",
-                    "stars": 1195,
+                    "stars": 1194,
                     "topics": [
                       "t2t-transformer",
                       "vision-transformer",
@@ -769,7 +769,7 @@
                     "open_issues": 55,
                     "owner": "airsplay",
                     "repo": "lxmert",
-                    "stars": 971,
+                    "stars": 969,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -797,7 +797,7 @@
                     "open_issues": 14,
                     "owner": "uclanlp",
                     "repo": "visualbert",
-                    "stars": 543,
+                    "stars": 542,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -825,7 +825,7 @@
                     "open_issues": 21,
                     "owner": "jackroos",
                     "repo": "VL-BERT",
-                    "stars": 742,
+                    "stars": 741,
                     "topics": [
                       "bert",
                       "iclr2020",
@@ -862,7 +862,7 @@
                     "open_issues": 46,
                     "owner": "ChenRocks",
                     "repo": "UNITER",
-                    "stars": 802,
+                    "stars": 801,
                     "topics": [
                       "pre-training",
                       "pytorch",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:14:44.970Z",
+    "last_updated": "2026-11-20T00:33:08.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",

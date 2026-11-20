@@ -5,10 +5,10 @@ Awesome Transformers (self-attention) in Computer Vision
 ## About transformers
 
 * Attention Is All You Need, NeurIPS 2017
-  * [\[paper\]](https://arxiv.org/abs/1706.03762) [\[official code\]](https://github.com/tensorflow/tensor2tensor) ⚠️ Archived [\[pytorch implementation\]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) ⭐ 9,828 | 🐛 83 | 🌐 Python | 📅 2024-04-16
+  * [\[paper\]](https://arxiv.org/abs/1706.03762) [\[official code\]](https://github.com/tensorflow/tensor2tensor) ⚠️ Archived [\[pytorch implementation\]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) ⭐ 9,827 | 🐛 83 | 🌐 Python | 📅 2024-04-16
   * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019
-  * [\[paper\]](https://arxiv.org/abs/1810.04805) [\[offficial code\]](https://github.com/google-research/bert) ⚠️ Archived [\[huggingface/transformers\]](https://github.com/huggingface/transformers) ⭐ 169,205 | 🐛 1,105 | 🌐 Python | 📅 2026-11-18
+  * [\[paper\]](https://arxiv.org/abs/1810.04805) [\[offficial code\]](https://github.com/google-research/bert) ⚠️ Archived [\[huggingface/transformers\]](https://github.com/huggingface/transformers) ⭐ 169,287 | 🐛 1,100 | 🌐 Python | 📅 2026-11-20
   * Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 * Efficient Transformers: A Survey, arXiv 2020
   * Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler
@@ -74,7 +74,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://arxiv.org/abs/2005.12872) [\[official code\]](https://github.com/facebookresearch/detr) ⚠️ Archived [\[detectron2 implementation\]](https://github.com/poodarchu/DETR.detectron2) ⭐ 111 | 🐛 0 | 🌐 Python | 📅 2020-12-03
   * Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko
 * Deformable DETR: Deformable Transformers for End-to-End Object Detection, ICLR 2021, object detection
-  * [\[paper\]](http://arxiv.org/abs/2010.04159) [\[official code\]](https://github.com/fundamentalvision/Deformable-DETR) ⭐ 4,032 | 🐛 177 | 🌐 Python | 📅 2024-05-16
+  * [\[paper\]](http://arxiv.org/abs/2010.04159) [\[official code\]](https://github.com/fundamentalvision/Deformable-DETR) ⭐ 4,031 | 🐛 177 | 🌐 Python | 📅 2024-05-16
   * Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai
 * End-to-End Object Detection with Adaptive Clustering Transformer, arXiv 2020, object detection
   * Minghang Zheng, Peng Gao, Xiaogang Wang, Hongsheng Li, Hao Dong
@@ -94,10 +94,10 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://arxiv.org/abs/1802.05751) [\[official code\]](https://github.com/tensorflow/tensor2tensor) ⚠️ Archived
   * Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Łukasz Kaiser, Noam Shazeer, Alexander Ku, Dustin Tran
 * Stand-alone self-attention in vision models, NeurIPS 2019
-  * [\[paper\]](https://arxiv.org/abs/1906.05909) [\[official code(underconstruction)\]](https://github.com/google-research/google-research/tree/master/standalone_self_attention_in_vision_models) ⭐ 39,223 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-18
+  * [\[paper\]](https://arxiv.org/abs/1906.05909) [\[official code(underconstruction)\]](https://github.com/google-research/google-research/tree/master/standalone_self_attention_in_vision_models) ⭐ 39,233 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-19
   * Prajit Ramachandran, Niki Parmar, Ashish Vaswani, Irwan Bello, Anselm Levskaya, Jonathon Shlens
 * On the relationship between self-attention and convolutional layers, ICLR 2020
-  * [\[paper\]](https://arxiv.org/abs/1911.03584) [\[official code\]](https://github.com/epfml/attention-cnn) ⭐ 1,123 | 🐛 6 | 🌐 Python | 📅 2023-01-10
+  * [\[paper\]](https://arxiv.org/abs/1911.03584) [\[official code\]](https://github.com/epfml/attention-cnn) ⭐ 1,122 | 🐛 6 | 🌐 Python | 📅 2023-01-10
   * Jean-Baptiste Cordonnier, Andreas Loukas, Martin Jaggi
 * Exploring self-attention for image recognition, CVPR 2020
   * [\[paper\]](https://arxiv.org/abs/2004.13621) [\[official code\]](https://github.com/hszhao/SAN) ⭐ 752 | 🐛 9 | 🌐 Python | 📅 2020-06-15
@@ -127,7 +127,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [\[official code\]](https://github.com/openai/image-gpt) ⚠️ Archived
   * Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever
 * **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, ICLR 2021, ViT**
-  * [\[paper\]](https://arxiv.org/abs/2010.11929) [\[pytorch implementation\]](https://github.com/lucidrains/vit-pytorch) ⭐ 25,581 | 🐛 155 | 🌐 Python | 📅 2026-11-07
+  * [\[paper\]](https://arxiv.org/abs/2010.11929) [\[pytorch implementation\]](https://github.com/lucidrains/vit-pytorch) ⭐ 25,583 | 🐛 155 | 🌐 Python | 📅 2026-11-07
   * Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
 * Pre-Trained Image Processing Transformer, arXiv, IPT
   * Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao
@@ -139,7 +139,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip H.S. Torr, Li Zhang
   * [\[paper\]](http://arxiv.org/abs/2012.15840)[\[official code\]](https://fudan-zvg.github.io/SETR)
 * Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet, arXiv 2021, T2T-ViT
-  * [\[paper\]](http://arxiv.org/abs/2101.11986)[\[official code\]](https://github.com/yitu-opensource/T2T-ViT) ⭐ 1,195 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2023-10-27
+  * [\[paper\]](http://arxiv.org/abs/2101.11986)[\[official code\]](https://github.com/yitu-opensource/T2T-ViT) ⭐ 1,194 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2023-10-27
   * Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Francis EH Tay, Jiashi Feng, Shuicheng Yan
 * TransReID: Transformer-based Object Re-Identification, arXiv 2021
   * Shuting He, Hao Luo, Pichao Wang, Fan Wang, Hao Li, Wei Jiang
@@ -162,16 +162,16 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://arxiv.org/abs/1908.02265) [\[official code\]](https://github.com/facebookresearch/vilbert-multi-task) ⚠️ Archived
   * Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee
 * LXMERT: Learning Cross-Modality Encoder Representations from Transformers, EMNLP 2019
-  * [\[paper\]](https://arxiv.org/abs/1908.07490) [\[official code\]](https://github.com/airsplay/lxmert) ⭐ 971 | 🐛 55 | 🌐 Python | 📅 2022-10-22
+  * [\[paper\]](https://arxiv.org/abs/1908.07490) [\[official code\]](https://github.com/airsplay/lxmert) ⭐ 969 | 🐛 55 | 🌐 Python | 📅 2022-10-22
   * Hao Tan, Mohit Bansal
 * VisualBERT: A Simple and Performant Baseline for Vision and Language, arXiv 2019
-  * [\[paper\]](https://arxiv.org/abs/1908.03557) [\[official code\]](https://github.com/uclanlp/visualbert) ⭐ 543 | 🐛 14 | 🌐 Python | 📅 2023-05-01
+  * [\[paper\]](https://arxiv.org/abs/1908.03557) [\[official code\]](https://github.com/uclanlp/visualbert) ⭐ 542 | 🐛 14 | 🌐 Python | 📅 2023-05-01
   * Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh, Kai-Wei Chang
 * VL-BERT: Pre-training of Generic Visual-Linguistic Representations, ICLR 2020
-  * [\[paper\]](https://arxiv.org/abs/1908.08530) [\[official code\]](https://github.com/jackroos/VL-BERT) ⭐ 742 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2023-05-22
+  * [\[paper\]](https://arxiv.org/abs/1908.08530) [\[official code\]](https://github.com/jackroos/VL-BERT) ⭐ 741 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2023-05-22
   * Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai
 * UNITER: UNiversal Image-TExt Representation Learning, ECCV 2020
-  * [\[paper\]](https://arxiv.org/abs/1909.11740) [\[official code\]](https://github.com/ChenRocks/UNITER) ⭐ 802 | 🐛 46 | 🌐 Python | 📅 2021-06-30
+  * [\[paper\]](https://arxiv.org/abs/1909.11740) [\[official code\]](https://github.com/ChenRocks/UNITER) ⭐ 801 | 🐛 46 | 🌐 Python | 📅 2021-06-30
   * Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, Jingjing Liu
 * Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers, arXiv 2020
   * Zhicheng Huang, Zhaoyang Zeng, Bei Liu, Dongmei Fu, Jianlong Fu
@@ -215,4 +215,4 @@ Awesome Transformers (self-attention) in Computer Vision
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
