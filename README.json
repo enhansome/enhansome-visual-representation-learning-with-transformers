@@ -58,7 +58,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40020,
+                "stars": 40019,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -376,11 +376,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T15:52:19Z",
+                    "last_commit": "2026-11-20T22:58:37Z",
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39233,
+                    "stars": 39245,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -571,7 +571,7 @@
                     "open_issues": 12,
                     "owner": "openai",
                     "repo": "image-gpt",
-                    "stars": 2094,
+                    "stars": 2093,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:43:12.368Z"
@@ -599,7 +599,7 @@
                     "open_issues": 155,
                     "owner": "lucidrains",
                     "repo": "vit-pytorch",
-                    "stars": 25583,
+                    "stars": 25587,
                     "topics": [
                       "artificial-intelligence",
                       "attention-mechanism",
@@ -973,7 +973,7 @@
                     "open_issues": 692,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22247,
+                    "stars": 22248,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:33:08.595Z",
+    "last_updated": "2026-11-20T23:56:14.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Transformers (self-attention) in Computer Vision",
