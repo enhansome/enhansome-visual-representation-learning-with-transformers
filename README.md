@@ -5,10 +5,10 @@ Awesome Transformers (self-attention) in Computer Vision
 ## About transformers
 
 * Attention Is All You Need, NeurIPS 2017
-  * [\[paper\]](https://arxiv.org/abs/1706.03762) [\[official code\]](https://github.com/tensorflow/tensor2tensor) ⚠️ Archived [\[pytorch implementation\]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) ⭐ 9,830 | 🐛 83 | 🌐 Python | 📅 2024-04-16
+  * [\[paper\]](https://arxiv.org/abs/1706.03762) [\[official code\]](https://github.com/tensorflow/tensor2tensor) ⚠️ Archived [\[pytorch implementation\]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) ⭐ 9,831 | 🐛 83 | 🌐 Python | 📅 2024-04-16
   * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019
-  * [\[paper\]](https://arxiv.org/abs/1810.04805) [\[offficial code\]](https://github.com/google-research/bert) ⚠️ Archived [\[huggingface/transformers\]](https://github.com/huggingface/transformers) ⭐ 169,379 | 🐛 1,182 | 🌐 Python | 📅 2026-11-27
+  * [\[paper\]](https://arxiv.org/abs/1810.04805) [\[offficial code\]](https://github.com/google-research/bert) ⚠️ Archived [\[huggingface/transformers\]](https://github.com/huggingface/transformers) ⭐ 169,308 | 🐛 1,187 | 🌐 Python | 📅 2026-11-27
   * Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 * Efficient Transformers: A Survey, arXiv 2020
   * Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler
@@ -74,7 +74,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://arxiv.org/abs/2005.12872) [\[official code\]](https://github.com/facebookresearch/detr) ⚠️ Archived [\[detectron2 implementation\]](https://github.com/poodarchu/DETR.detectron2) ⭐ 111 | 🐛 0 | 🌐 Python | 📅 2020-12-03
   * Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko
 * Deformable DETR: Deformable Transformers for End-to-End Object Detection, ICLR 2021, object detection
-  * [\[paper\]](http://arxiv.org/abs/2010.04159) [\[official code\]](https://github.com/fundamentalvision/Deformable-DETR) ⭐ 4,030 | 🐛 177 | 🌐 Python | 📅 2024-05-16
+  * [\[paper\]](http://arxiv.org/abs/2010.04159) [\[official code\]](https://github.com/fundamentalvision/Deformable-DETR) ⭐ 4,032 | 🐛 177 | 🌐 Python | 📅 2024-05-16
   * Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai
 * End-to-End Object Detection with Adaptive Clustering Transformer, arXiv 2020, object detection
   * Minghang Zheng, Peng Gao, Xiaogang Wang, Hongsheng Li, Hao Dong
@@ -94,7 +94,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://arxiv.org/abs/1802.05751) [\[official code\]](https://github.com/tensorflow/tensor2tensor) ⚠️ Archived
   * Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Łukasz Kaiser, Noam Shazeer, Alexander Ku, Dustin Tran
 * Stand-alone self-attention in vision models, NeurIPS 2019
-  * [\[paper\]](https://arxiv.org/abs/1906.05909) [\[official code(underconstruction)\]](https://github.com/google-research/google-research/tree/master/standalone_self_attention_in_vision_models) ⭐ 39,527 | 🐛 2,020 | 🌐 Jupyter Notebook | 📅 2026-11-26
+  * [\[paper\]](https://arxiv.org/abs/1906.05909) [\[official code(underconstruction)\]](https://github.com/google-research/google-research/tree/master/standalone_self_attention_in_vision_models) ⭐ 39,566 | 🐛 2,023 | 🌐 Jupyter Notebook | 📅 2026-11-27
   * Prajit Ramachandran, Niki Parmar, Ashish Vaswani, Irwan Bello, Anselm Levskaya, Jonathon Shlens
 * On the relationship between self-attention and convolutional layers, ICLR 2020
   * [\[paper\]](https://arxiv.org/abs/1911.03584) [\[official code\]](https://github.com/epfml/attention-cnn) ⭐ 1,122 | 🐛 6 | 🌐 Python | 📅 2023-01-10
@@ -115,7 +115,7 @@ Awesome Transformers (self-attention) in Computer Vision
   * [\[paper\]](https://arxiv.org/abs/1912.12180) [\[pytorch implementation\]](https://github.com/lucidrains/axial-attention) ⭐ 396 | 🐛 5 | 🌐 Python | 📅 2021-08-26
   * Jonathan Ho, Nal Kalchbrenner, Dirk Weissenborn, Tim Salimans
 * Axial-deeplab: Stand-alone axial-attention for panoptic segmentation, ECCV 2020
-  * [\[paper\]](https://arxiv.org/abs/2003.07853) [\[pytorch implementation\]](https://github.com/csrhddlam/axial-deeplab) ⭐ 459 | 🐛 14 | 🌐 Python | 📅 2021-06-22
+  * [\[paper\]](https://arxiv.org/abs/2003.07853) [\[pytorch implementation\]](https://github.com/csrhddlam/axial-deeplab) ⭐ 460 | 🐛 14 | 🌐 Python | 📅 2021-06-22
   * Huiyu Wang, Yukun Zhu, Bradley Green, Hartwig Adam, Alan Yuille, Liang-Chieh Chen
 * MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, arXiv 2020
   * Huiyu Wang, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen
@@ -198,7 +198,7 @@ Awesome Transformers (self-attention) in Computer Vision
 ### Focused on OCR
 
 * LayoutLM: Pre-training of Text and Layout for Document Image Understanding
-  * [\[paper\]](https://arxiv.org/abs/1912.13318) [\[official code\]](https://github.com/microsoft/unilm/tree/master/layoutlm) ⭐ 22,255 | 🐛 691 | 🌐 Python | 📅 2026-09-21
+  * [\[paper\]](https://arxiv.org/abs/1912.13318) [\[official code\]](https://github.com/microsoft/unilm/tree/master/layoutlm) ⭐ 22,254 | 🐛 691 | 🌐 Python | 📅 2026-09-21
   * Yiheng Xu, Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou
 
 ### Focused on Image Captioning
@@ -215,4 +215,4 @@ Awesome Transformers (self-attention) in Computer Vision
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
